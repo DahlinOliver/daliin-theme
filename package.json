@@ -2,6 +2,10 @@
     "name": "daliin-theme",
     "displayName": "DaliiN Theme",
     "description": "Dark theme with vibrant colors",
+    "publisher": "DaliiN",
+    "author": {
+        "name": "Oliver Dahlin"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.49.0"

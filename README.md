@@ -2,8 +2,6 @@
 
 <center><h3>A dark theme with colorful & vibrant colors</h3></center>
 
-<img src="images/preview.png"></img>
-
 ## Theme description
 
 - Dark theme
