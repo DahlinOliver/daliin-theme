@@ -1,0 +1,37 @@
+{
+    "name": "daliin-theme",
+    "displayName": "DaliiN Theme",
+    "description": "Dark theme with vibrant colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DahlinOliver/daliin-theme.git"
+    },
+    "galleryBanner": {
+        "color": "#76c1ff",
+        "theme": "dark"
+    },
+    "icon": "images/icon/DaliiN.jpg",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Dark Theme",
+        "DaliiN Theme",
+        "Vibrant",
+        "Colorful",
+        "Contrast"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DaliiN Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DaliiN Theme-color-theme.json"
+            }
+        ]
+    }
+}
